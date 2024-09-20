@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stephen
 - 👀 I’m interested in backend development, "infrastructure", and computer programming in general.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning about Kafka, K8s, and python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - ⚡ Fun fact: ...
